@@ -1,0 +1,9 @@
+The code in this directory is here for your reference.
+You should not run any code here. This step has already
+been done for you and this code is here simply so you
+can see how the data cleaning step was accomplished.
+
+If you do run this code, then you will destroy all 
+your data and you will be unable to perform this lab.
+
+PLEASE - DO NOT RUN ANY CODE IN THIS DIRECTORY.
